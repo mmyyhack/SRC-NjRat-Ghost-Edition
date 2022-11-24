@@ -1,6 +1,7 @@
 # Source code of NjRat Ghost Edition
 
-
+## Current issues: Anti ANY.RUN does not function in the stub for some reason.
+## But in a normal form application it works fine.
   
 Before editing or opening code/forms in the source, compile in release/debug mode.  
 You will run into errors if you do not do that first.  
